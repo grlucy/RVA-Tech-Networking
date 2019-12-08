@@ -22,6 +22,10 @@ A compendium of tech networking organizations and events in Richmond, VA
 
 - [Richmond User Experience](https://richmondux.com/)
 
+### Game Development
+
+- [RVA Game Jams](https://www.facebook.com/rvagamejams/)
+
 ### Women's Networking
 
 - [Ladies that UX RVA](https://www.facebook.com/groups/796521170550624/)
