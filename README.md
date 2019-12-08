@@ -16,6 +16,7 @@ A compendium of tech networking organizations and events in Richmond, VA
 
 - [RVATECH](https://rvatech.com/events/)
 - [RVAtech/jam](https://rvatechjam.com/) - Annual summit
+- [Refactoring tech - Richmond](https://www.meetup.com/refactoring-tech-richmond/) - Monthly coffee & code
 
 ### UI/UX Networking
 
